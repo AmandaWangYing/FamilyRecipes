@@ -1,0 +1,1 @@
+{"id":"1","name":"Soy Milk","level":"Medium","imageSrc":"/images/1-soy-milk.jpg","imageDescription":"A photo of a bowl of soy milk.","description":"A drink made by soybeans","category":"Drink","directions":"Step 1, 2, 3, 4","ingredients":[{"item":"Soy Bean","quantity":100,"unit":"gram"},{"item":"Water","quantity":1000,"unit":"ml"},{"item":"Sugar","quantity":200,"unit":"gram"}]}
